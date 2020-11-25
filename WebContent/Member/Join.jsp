@@ -7,6 +7,6 @@
 <title>Join.jsp</title>
 </head>
 <body>
-
+	<a href="../Index.jsp">ㅁㅔ인으로]</a>
 </body>
 </html>
