@@ -7,13 +7,6 @@
 <title>Index.jsp</title>
 </head>
 <body>
-	<h2>git 수업</h2>
-	<fieldset>
-		<legend>깃허브 연동</legend>
-		<ul>
-			<li>자바</li>
-			<li>스프링</li>
-		</ul>
-	</fieldset>
+
 </body>
 </html>
